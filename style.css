@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+    background-color: aquamarine
+}
+
+
+img {
+    width: 1500px;
+    height: 750px;
+}
+
+.img principal {
+    width: 300 px;
+    height: 300 px;
+}
+
+#campuslife {
+    width: 150px;
+    height: 150px;
+}
